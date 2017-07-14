@@ -1,0 +1,17 @@
+# Setup
+title:        JQuery Progress
+tagline:      if you want to add progress to your web page like this one in bootstrap but you won't to get all boostrap components so you in the right place
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Salem Code
+  url:        http://GitHub.com/salemcode8/jquery-progress 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
